@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2",
-  "apkUrl": "https:\/\/github.com\/zaw2361\/bouchar-update\/releases\/download\/1.2\/BouChar.apk",
-  "sizeMb": 3.2,
-  "notes": "update လုပ်လိုက်ပါ",
-  "force": true
+  "versionCode": 0,
+  "versionName": "",
+  "apkUrl": "",
+  "sizeMb": 0,
+  "notes": "",
+  "force": false
 }
