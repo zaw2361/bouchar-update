@@ -1,8 +1,8 @@
 {
-  "versionCode": 0,
-  "versionName": "",
-  "apkUrl": "",
-  "sizeMb": 0,
-  "notes": "",
-  "force": false
+  "versionCode": 7,
+  "versionName": "1.2",
+  "apkUrl": "https:\/\/github.com\/zaw2361\/bouchar-update\/releases\/download\/1.2\/BouChar.apk",
+  "sizeMb": 4,
+  "notes": "Qr",
+  "force": true
 }
